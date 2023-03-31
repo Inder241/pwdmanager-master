@@ -19,7 +19,7 @@ public class UserTest {
     }
 
     @ParameterizedTest
-    @ValueSource(strings = { "Ja_ck", "0Jane", "Michael000001" })    
+    @ValueSource(strings = { "2678", "0Jane", "Michael000001", "hello.com" })    
     public void itCreatesClientWithName(String name) {
         User user = new User(0, name, null, name);
         assertEquals(user.getName(), name);

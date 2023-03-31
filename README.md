@@ -1,5 +1,9 @@
 # PwdManager
 
+run passMng.java 
+open http://localhost:8080/users
+test the registration and and see if table updates. 
+
 
 
 ## Getting started
