@@ -15,14 +15,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://github.com/Inder241/PassMngr.git
+git remote add origin https://github.com/Inder241/pwdManager3.git
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://github.com/Inder241/PassMngr/-/settings/integrations)
+- [ ] [Set up project integrations](https://github.com/Inder241/pwdManager3/-/settings/integrations)
 
 ## Collaborate with your team
 
